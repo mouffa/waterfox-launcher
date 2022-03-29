@@ -10,9 +10,11 @@ MimeType=text/html;text/xml;application/xhtml+xml;x-scheme-handler/http;x-scheme
 StartupNotify=true
 StartupWMClass=waterfox
 Actions=new-window;new-private-window;
+
 [Desktop Action new-window]
 Name=New Window
 Exec=/path/to/waterfox/waterfox --new-window %u
+
 [Desktop Action new-private-window]
 Name=New Private Window
 Exec=/path/to/waterfox/waterfox --private-window %u
