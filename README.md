@@ -1,7 +1,7 @@
 # waterfox-icon
 Waterfox `.desktop` file which adds a firefox-like behaving launcher icon into Gnome.
 
-This .desktop file has been created by customising the `firefox.desktop` file for Waterfox.
+This `.desktop` file has been created by customising the `firefox.desktop` file for Waterfox.
 
 Your `firefox.desktop` file should be located in `/usr/share/applications/`.
 
