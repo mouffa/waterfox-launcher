@@ -10,3 +10,5 @@ Change the path to the exact location of the waterfox folder.
 The Waterfox launcher will appear in the Gnome application drawer.
 
 You can add the launcher into the dash-to-dock panel and right-click to open either a new window or a new private window, for every window a dot will appear by the waterfox icon.
+
+Your firefox.desktop file should be located in /usr/share/applications.
