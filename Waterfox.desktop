@@ -16,4 +16,3 @@ Exec=/path/to/waterfox/waterfox --new-window %u
 [Desktop Action new-private-window]
 Name=New Private Window
 Exec=/path/to/waterfox/waterfox --private-window %u
-
