@@ -1,4 +1,4 @@
-# waterfox-icon
+# Waterfox `.desktop` launcher
 Waterfox `.desktop` file which adds a firefox-like behaving launcher icon into Gnome.
 
 This `.desktop` file has been created by customising the `firefox.desktop` file for Waterfox.
