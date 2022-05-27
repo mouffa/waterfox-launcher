@@ -5,7 +5,7 @@ This `.desktop` file has been created by customising the `firefox.desktop` file 
 
 Your `firefox.desktop` file should be located in `/usr/share/applications/`.
 
-After unpacking and running Waterfox for the first time you will find a Waterfox `.desktop` file in `~/.local/share/applications/`. Edit or replace the file with this one.
+The Waterfox `.desktop` file should be located in `~/.local/share/applications/`. Edit or replace the file with this one.
 
 Change the `/path/to` to the exact location of the Waterfox folder.
 
